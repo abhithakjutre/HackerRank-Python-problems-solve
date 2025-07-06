@@ -15,16 +15,16 @@ I am using it to practice, track my progress, and improve my coding skills by so
 ## 📁 Folder Structure
 
 Problems are organized by topic/language:
-
-/Python/
-- hello_world.py
-- arithmetic_operators.py
-- division.py
-
-/Algorithms/
-- solve_me_first.cpp
-- simple_array_sum.cpp
-
+```bash
+   /Python/
+   - hello_world.py
+   - arithmetic_operators.py
+   - division.py
+   
+   /Algorithms/
+   - solve_me_first.cpp
+   - simple_array_sum.cpp 
+```
 > 📝 File names reflect the problem titles from HackerRank.
 
 ---
@@ -51,15 +51,16 @@ Problems are organized by topic/language:
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/hackerrank-solutions.git
+   ```
 Navigate to the folder for your topic/language
 
 Open the desired file and run/test the code
 
-🤝 Contributions
+## 🤝 Contributions
 Currently, this is a personal learning repo, but I may open it for contributions later.
 If you find something useful or have suggestions, feel free to open an issue or connect with me.
 
-📬 Connect With Me
-GitHub: [Abhi-Coder](https://github.com/abhithakjutre/abhithakjutre)
-Website:[My Portfolio](https://abhithakur-portfolio.netlify.app/)
-Instagram:[My Personal account](https://www.instagram.com/abhishekthakur2023982023/)
+## 📬 Connect With Me
+- GitHub: [Abhi-Coder](https://github.com/abhithakjutre/abhithakjutre)
+- Website:[My Portfolio](https://abhithakur-portfolio.netlify.app/)
+- Instagram:[My Personal account](https://www.instagram.com/abhishekthakur2023982023/)
